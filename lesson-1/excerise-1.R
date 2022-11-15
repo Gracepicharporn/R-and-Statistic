@@ -46,7 +46,7 @@ print(Y_transpost*Z_transpost)
 print(Y%*%Z)
 print(Y_transpost%*%Z_transpost)
 
-#transpost
+#transpost matrix Y
 solve(Y)
 
 # multipication inverse get the same result
